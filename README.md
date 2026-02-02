@@ -1,2 +1,2 @@
-# pegasus
-Pegasus®  Software media.
+# Pegasus®
+Pegasus®, todos os direitos reservados a Higor Brito.
